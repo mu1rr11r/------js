@@ -1,0 +1,29 @@
+
+.item-caption{
+    width: 80%;
+    left: 10%;
+    bottom: 40px;
+    text-align: center;
+}
+
+.lightbox-container{
+    background-color: rgba(0,0,0,0.6);
+}
+.lightbox-item{
+    width: 50%;
+    height: 70vh;
+    background-image: url(./omg/WhatsApp\ Image\ 2025-04-28\ at\ 00.22.10_86af52f8.jpg);
+    background-size: cover;
+position: relative;
+}
+#close{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+.lightbox-item{
+    font-size: 25px;
+    cursor: pointer;
+    
+}
